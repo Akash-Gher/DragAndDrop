@@ -1,0 +1,10 @@
+
+NOTE:
+      This is an React based project here we can add an note as a card and render on to 
+    the page this cards are dragable so we can drag and drop to the location according to 
+    there priorities.
+
+ instalation guide: 1.download the project folder in your local System
+                    2. Open the project directory in IDE/vs code
+                    3.open the terminel and Run command "npm i" inorder to install node modules
+                    4.Run the  the command "npm start" to start the React project
